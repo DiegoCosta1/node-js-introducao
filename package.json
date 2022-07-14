@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "name": "js-introducao",
+  "description": "Curso Dankicode Webmaster FrontEnd - NodeJS",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoCosta1/node-js-introducao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoCosta1/node-js-introducao/issues"
+  },
+  "homepage": "https://github.com/DiegoCosta1/node-js-introducao#readme"
+}
