@@ -19,3 +19,10 @@ Solução: adicionar propriedades `scripts.dev = nodemon` no arquivo de `package
 ```
 $ npm run dev
 ```
+
+comandos utilizados (parte 2):
+
+comandos utilizados:
+```
+$ npm install ejs
+```
